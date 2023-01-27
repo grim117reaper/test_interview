@@ -1,0 +1,1532 @@
+1674833048335	geckodriver	INFO	Listening on 127.0.0.1:51380
+1674833051359	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51381" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofilepuAAzd"
+1674833051748	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674833051752	Marionette	INFO	Listening on port 51388
+Read port: 51388
+WebDriver BiDi listening on ws://127.0.0.1:51381
+1674833051847	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofilepuAAzd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51381/devtools/browser/adaabd8f-9b4e-4931-acbb-b416f62bd55a
+1674837423763	Marionette	INFO	Stopped listening on port 51388
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileEQBgxu"
+1674833075255	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674833075259	Marionette	INFO	Listening on port 51430
+Read port: 51430
+WebDriver BiDi listening on ws://127.0.0.1:51423
+1674833075349	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileEQBgxu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51423/devtools/browser/66732bd0-c6f4-4f84-ab29-23333ce5777b
+JavaScript warning: https://www.amazon.com/ line 1894 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674833104728	Marionette	INFO	Stopped listening on port 51430
+Dynamically enable window occlusion 1
+1674834663340	geckodriver	INFO	Listening on 127.0.0.1:61634
+1674834666345	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61635" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileQYKaPJ"
+1674834666797	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674834666801	Marionette	INFO	Listening on port 61645
+Read port: 61645
+WebDriver BiDi listening on ws://127.0.0.1:61635
+1674834666890	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileQYKaPJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61635/devtools/browser/8d81ec74-b9d8-4b53-9ad3-e6a4b027e8a5
+1674834670664	Marionette	INFO	Stopped listening on port 61645
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1674834818730	geckodriver	INFO	Listening on 127.0.0.1:59092
+1674834821747	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59093" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileEyNO4A"
+1674834822217	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674834822221	Marionette	INFO	Listening on port 59100
+Read port: 59100
+WebDriver BiDi listening on ws://127.0.0.1:59093
+1674834822325	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileEyNO4A\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59093/devtools/browser/d495e1a9-ca80-42e4-b0df-5a62a5d130c2
+JavaScript warning: https://www.amazon.in/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.in."
+JavaScript warning: https://www.amazon.in/s?k=cooler&crid=MT893N9SLJI9&sprefix=cooler%2Caps%2C623&ref=nb_sb_noss_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674834852385	Marionette	INFO	Stopped listening on port 59100
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1674834931134	geckodriver	INFO	Listening on 127.0.0.1:59304
+1674834934146	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59305" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofilearv64k"
+1674834934579	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674834934583	Marionette	INFO	Listening on port 59312
+WebDriver BiDi listening on ws://127.0.0.1:59305
+Read port: 59312
+1674834934777	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofilearv64k\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59305/devtools/browser/dbf74596-0338-448d-adab-120cc3d22067
+JavaScript warning: https://www.amazon.in/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.in."
+JavaScript warning: https://www.amazon.in/s?k=cooler&ref=nb_sb_noss line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 676"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:676:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:517:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2154:35
+addAllSources@resource://devtools/server/actors/thread.js:1486:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:302:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:46:25
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:530:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:439:21
+Line: 676, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 676"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:676:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:517:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2154:35
+addAllSources@resource://devtools/server/actors/thread.js:1486:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:302:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:46:25
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:530:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:439:21
+Line: 676, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 676"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:676:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:517:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2154:35
+addAllSources@resource://devtools/server/actors/thread.js:1486:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:302:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:46:25
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:530:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:439:21
+Line: 676, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 676: Failed to open input source 'file:///'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 676: Failed to open input source 'file:///'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 676: Failed to open input source 'file:///'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1674834966342	Marionette	INFO	Stopped listening on port 59312
+Dynamically enable window occlusion 1
+1674835041337	geckodriver	INFO	Listening on 127.0.0.1:59499
+1674835044345	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59500" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofilefjRyTm"
+1674835044777	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674835044781	Marionette	INFO	Listening on port 59512
+WebDriver BiDi listening on ws://127.0.0.1:59500
+Read port: 59512
+1674835044971	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofilefjRyTm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59500/devtools/browser/ed56662d-74b9-4297-9d28-6b83046e0d65
+JavaScript warning: https://www.amazon.in/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.in."
+JavaScript warning: https://www.amazon.in/s?k=cooler&ref=nb_sb_noss line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674835058034	Marionette	INFO	Stopped listening on port 59512
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1674835680479	geckodriver	INFO	Listening on 127.0.0.1:59712
+1674835683496	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59713" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileplO9w0"
+1674835683904	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674835683908	Marionette	INFO	Listening on port 59720
+WebDriver BiDi listening on ws://127.0.0.1:59713
+Read port: 59720
+1674835684101	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileplO9w0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59713/devtools/browser/661fdfb7-6476-43e1-9672-7747f70b649c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.in."
+JavaScript warning: https://www.amazon.in/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674835689983	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.amazon.in/s?k=cooler&ref=nb_sb_noss line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674835702608	Marionette	INFO	Stopped listening on port 59720
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1674835854828	geckodriver	INFO	Listening on 127.0.0.1:59892
+1674835857832	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "59893" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofilebmmUf0"
+*** You are running in headless mode.
+1674835858227	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674835858231	Marionette	INFO	Listening on port 59900
+Read port: 59900
+WebDriver BiDi listening on ws://127.0.0.1:59893
+1674835858301	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofilebmmUf0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59893/devtools/browser/d530b43e-6c39-4374-97c2-e6337d4fa95a
+JavaScript warning: https://www.amazon.in/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.in."
+JavaScript warning: https://www.amazon.in/s?k=cooler&ref=nb_sb_noss line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674835881839	geckodriver	INFO	Listening on 127.0.0.1:60026
+1674835884844	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "60027" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileXHGHGs"
+*** You are running in headless mode.
+1674835885245	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674835885248	Marionette	INFO	Listening on port 60034
+Read port: 60034
+WebDriver BiDi listening on ws://127.0.0.1:60027
+1674835885320	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileXHGHGs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60027/devtools/browser/48029247-1969-4ffd-8120-b3bd7ee09e06
+JavaScript warning: https://www.amazon.in/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.in."
+JavaScript warning: https://www.amazon.in/s?k=cooler&ref=nb_sb_noss line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674835940525	geckodriver	INFO	Listening on 127.0.0.1:60168
+1674835943531	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "60169" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofilewZQLuL"
+*** You are running in headless mode.
+1674835943948	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674835943951	Marionette	INFO	Listening on port 60176
+WebDriver BiDi listening on ws://127.0.0.1:60169
+Read port: 60176
+1674835944133	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofilewZQLuL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60169/devtools/browser/bf1452ca-33d1-49d9-9dc7-56eb0656d347
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.in."
+JavaScript warning: https://www.amazon.in/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.in/s?k=cooler&ref=nb_sb_noss line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674836019292	geckodriver	INFO	Listening on 127.0.0.1:60336
+1674836022302	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "60337" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofiletYLYmB"
+*** You are running in headless mode.
+1674836022793	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674836022797	Marionette	INFO	Listening on port 60344
+Read port: 60344
+WebDriver BiDi listening on ws://127.0.0.1:60337
+1674836022872	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofiletYLYmB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60337/devtools/browser/43fd022c-12a3-4e41-b6a2-554c835792c4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.in."
+JavaScript warning: https://www.amazon.in/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.in/s?k=cooler&ref=nb_sb_noss line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674836092785	geckodriver	INFO	Listening on 127.0.0.1:60486
+1674836095799	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "60487" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileiAGSEX"
+*** You are running in headless mode.
+1674836096248	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674836096252	Marionette	INFO	Listening on port 60494
+WebDriver BiDi listening on ws://127.0.0.1:60487
+Read port: 60494
+1674836096397	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileiAGSEX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60487/devtools/browser/0bea553e-4bf5-4c9c-b42c-838005df21a2
+JavaScript warning: https://www.amazon.in/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.in."
+JavaScript warning: https://www.amazon.in/s?k=cooler&ref=nb_sb_noss line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674836309345	geckodriver	INFO	Listening on 127.0.0.1:60651
+1674836312357	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "60652" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofilehcy0cG"
+*** You are running in headless mode.
+1674836312796	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674836312800	Marionette	INFO	Listening on port 60659
+WebDriver BiDi listening on ws://127.0.0.1:60652
+Read port: 60659
+1674836312987	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofilehcy0cG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60652/devtools/browser/5df8358b-f201-401f-a2ab-befff2efd52f
+JavaScript warning: https://www.amazon.in/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.in."
+JavaScript warning: https://www.amazon.in/s?k=cooler&ref=nb_sb_noss line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674836335936	geckodriver	INFO	Listening on 127.0.0.1:60789
+1674836338949	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60790" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofile7ti3Wa"
+1674836339424	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674836339428	Marionette	INFO	Listening on port 60797
+Read port: 60797
+WebDriver BiDi listening on ws://127.0.0.1:60790
+1674836339529	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofile7ti3Wa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60790/devtools/browser/d37b48d3-8391-47d5-8ed3-dd118a3189e0
+JavaScript warning: https://www.amazon.in/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.in."
+JavaScript warning: https://www.amazon.in/s?k=cooler&ref=nb_sb_noss line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674836378748	geckodriver	INFO	Listening on 127.0.0.1:60953
+1674836381760	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60954" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileRATUft"
+1674836382231	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674836382236	Marionette	INFO	Listening on port 60961
+Read port: 60961
+WebDriver BiDi listening on ws://127.0.0.1:60954
+1674836382332	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileRATUft\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60954/devtools/browser/46044412-de7c-42f3-9278-f8e1ba1feec8
+JavaScript warning: https://www.amazon.in/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.in."
+JavaScript warning: https://www.amazon.in/s?k=cooler&ref=nb_sb_noss line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674836424032	geckodriver	INFO	Listening on 127.0.0.1:61111
+1674836427042	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61112" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileJ6OnQR"
+1674836427543	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674836427548	Marionette	INFO	Listening on port 61119
+WebDriver BiDi listening on ws://127.0.0.1:61112
+Read port: 61119
+1674836427758	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileJ6OnQR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61112/devtools/browser/a1dbbe31-3365-4785-8365-6b6a2adc2c16
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.in."
+JavaScript warning: https://www.amazon.in/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.in/s?k=cooler&ref=nb_sb_noss line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 676"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:676:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:517:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2154:35
+addAllSources@resource://devtools/server/actors/thread.js:1486:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:302:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:46:25
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:530:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:439:21
+Line: 676, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 676"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:676:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:517:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2154:35
+addAllSources@resource://devtools/server/actors/thread.js:1486:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:302:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:46:25
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:530:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:439:21
+Line: 676, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 676"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:676:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:517:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2154:35
+addAllSources@resource://devtools/server/actors/thread.js:1486:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:302:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:46:25
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:530:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:439:21
+Line: 676, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 676: Failed to open input source 'file:///'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 676: Failed to open input source 'file:///'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 676: Failed to open input source 'file:///'
+1674836511876	geckodriver	INFO	Listening on 127.0.0.1:61408
+1674836514884	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "61409" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileBYXhix"
+*** You are running in headless mode.
+1674836515386	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674836515390	Marionette	INFO	Listening on port 61416
+WebDriver BiDi listening on ws://127.0.0.1:61409
+Read port: 61416
+1674836515589	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileBYXhix\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61409/devtools/browser/793be892-c365-4e4b-ac62-3959e4e79a8d
+1674836558349	geckodriver	INFO	Listening on 127.0.0.1:61469
+1674836561352	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "61470" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileYgE2xg"
+*** You are running in headless mode.
+1674836561764	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674836561767	Marionette	INFO	Listening on port 61477
+WebDriver BiDi listening on ws://127.0.0.1:61470
+Read port: 61477
+1674836561952	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileYgE2xg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61470/devtools/browser/ef61ef9a-9202-4111-ba3f-61519f6ef094
+1674836577939	geckodriver	INFO	Listening on 127.0.0.1:61521
+1674836580964	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61522" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileuHn7a8"
+1674836581369	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674836581372	Marionette	INFO	Listening on port 61530
+WebDriver BiDi listening on ws://127.0.0.1:61522
+Read port: 61530
+1674836581586	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileuHn7a8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61522/devtools/browser/ba8b938e-c1fa-4dbd-a21a-552652f83232
+JavaScript warning: https://www.amazon.in/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.in."
+JavaScript warning: https://www.amazon.in/s?k=cooler&ref=nb_sb_noss line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 676"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:676:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:517:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2154:35
+addAllSources@resource://devtools/server/actors/thread.js:1486:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:302:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:46:25
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:530:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:439:21
+Line: 676, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 676"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:676:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:517:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2154:35
+addAllSources@resource://devtools/server/actors/thread.js:1486:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:302:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:46:25
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:530:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:439:21
+Line: 676, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 676"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:676:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:517:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2154:35
+addAllSources@resource://devtools/server/actors/thread.js:1486:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:302:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:46:25
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:530:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:439:21
+Line: 676, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 676: Failed to open input source 'file:///'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 676: Failed to open input source 'file:///'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 676: Failed to open input source 'file:///'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+11674837421745	Marionette	INFO	Stopped listening on port 61678
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+rogram Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61822" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofilem1nBmf"
+1674836803014	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674836803018	Marionette	INFO	Listening on port 61829
+WebDriver BiDi listening on ws://127.0.0.1:61822
+Read port: 61829
+1674836803225	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofilem1nBmf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61822/devtools/browser/3cf9efb2-6842-4ddf-9a5f-0228302cc95b
+JavaScript warning: https://www.amazon.in/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.in."
+JavaScript warning: https://www.amazon.in/s?k=cooler&ref=nb_sb_noss line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674836827366	Marionette	INFO	Stopped listening on port 61829
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1674836975510	geckodriver	INFO	Listening on 127.0.0.1:61973
+1674836978517	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61974" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofile7FL0q5"
+1674836978917	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674836978921	Marionette	INFO	Listening on port 61981
+WebDriver BiDi listening on ws://127.0.0.1:61974
+Read port: 61981
+1674836979135	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofile7FL0q5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61974/devtools/browser/74583b0e-b657-496b-af6c-0e8598bf15e0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.in."
+JavaScript warning: https://www.amazon.in/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.in/s?k=cooler&ref=nb_sb_noss line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674837422395	Marionette	INFO	Stopped listening on port 61981
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofile20m2Bd"
+1674837011163	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674837011167	Marionette	INFO	Listening on port 62127
+Read port: 62127
+WebDriver BiDi listening on ws://127.0.0.1:62120
+1674837011282	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofile20m2Bd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62120/devtools/browser/2dcdeb49-df6c-4501-a01d-6219c61e2280
+JavaScript warning: https://www.amazon.in/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.in."
+JavaScript warning: https://www.amazon.in/s?k=cooler&ref=nb_sb_noss line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674837423092	Marionette	INFO	Stopped listening on port 62127
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileX9kJx5"
+1674837067371	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674837067375	Marionette	INFO	Listening on port 62266
+Read port: 62266
+WebDriver BiDi listening on ws://127.0.0.1:62258
+1674837067490	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileX9kJx5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62258/devtools/browser/47cb9464-3838-471c-8bcb-96e935c2eabf
+JavaScript warning: https://www.amazon.in/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.in."
+JavaScript warning: https://www.amazon.in/s?k=cooler&ref=nb_sb_noss line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674837179303	Marionette	INFO	Stopped listening on port 62266
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1674837239987	geckodriver	INFO	Listening on 127.0.0.1:62456
+1674837242991	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62457" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileSKveH6"
+1674837243429	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674837243433	Marionette	INFO	Listening on port 62464
+Read port: 62464
+WebDriver BiDi listening on ws://127.0.0.1:62457
+1674837243532	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileSKveH6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62457/devtools/browser/a29465be-bbe8-41fd-a173-82dcf364bdc4
+JavaScript warning: https://www.amazon.in/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.in."
+JavaScript warning: https://www.amazon.in/s?k=cooler&ref=nb_sb_noss line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 676"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:676:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:517:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2154:35
+addAllSources@resource://devtools/server/actors/thread.js:1486:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:302:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:46:25
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:530:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:439:21
+Line: 676, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 676"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:676:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:517:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2154:35
+addAllSources@resource://devtools/server/actors/thread.js:1486:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:302:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:46:25
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:530:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:439:21
+Line: 676, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 676"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:676:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:517:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2154:35
+addAllSources@resource://devtools/server/actors/thread.js:1486:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:302:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:46:25
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:530:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:439:21
+Line: 676, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 676: Failed to open input source 'file:///'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 676: Failed to open input source 'file:///'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 676: Failed to open input source 'file:///'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1674837355869	Marionette	INFO	Stopped listening on port 62464
+Dynamically enable window occlusion 1
+vaScript warning: https://www.amazon.in/s?k=cooler&ref=nb_sb_noss line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 676"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:676:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:517:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2154:35
+addAllSources@resource://devtools/server/actors/thread.js:1486:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:302:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:46:25
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:530:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:439:21
+Line: 676, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 676"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:676:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:517:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2154:35
+addAllSources@resource://devtools/server/actors/thread.js:1486:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:302:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:46:25
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:530:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:439:21
+Line: 676, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 676"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:676:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:517:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2154:35
+addAllSources@resource://devtools/server/actors/thread.js:1486:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:302:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:46:25
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:530:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:439:21
+Line: 676, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 676: Failed to open input source 'file:///'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 676: Failed to open input source 'file:///'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 676: Failed to open input source 'file:///'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1674837353996	Marionette	INFO	Stopped listening on port 62602
+Dynamically enable window occlusion 1
+oler&ref=nb_sb_noss line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674837424563	Marionette	INFO	Stopped listening on port 62757
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1674838894352	geckodriver	INFO	Listening on 127.0.0.1:63074
+1674838897364	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "63075" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileVrOdUj"
+*** You are running in headless mode.
+1674838897720	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674838897723	Marionette	INFO	Listening on port 63083
+WebDriver BiDi listening on ws://127.0.0.1:63075
+Read port: 63083
+1674838897799	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileVrOdUj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63075/devtools/browser/d9d819bb-bcc8-44c4-ab86-a0049736fc88
+JavaScript warning: https://www.amazon.in/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.in."
+JavaScript warning: https://www.amazon.in/s?k=cooler&ref=nb_sb_noss line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674838931728	geckodriver	INFO	Listening on 127.0.0.1:63232
+1674838934747	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "63233" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofilecVOwsN"
+*** You are running in headless mode.
+1674838935115	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674838935118	Marionette	INFO	Listening on port 63240
+Read port: 63240
+WebDriver BiDi listening on ws://127.0.0.1:63233
+1674838935184	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofilecVOwsN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63233/devtools/browser/674965ee-7b89-4af4-bdbd-6945d8df6f7b
+1674838961849	geckodriver	INFO	Listening on 127.0.0.1:63281
+1674838964854	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "63282" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileLGvmDu"
+*** You are running in headless mode.
+1674838965227	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674838965230	Marionette	INFO	Listening on port 63289
+Read port: 63289
+WebDriver BiDi listening on ws://127.0.0.1:63282
+1674838965298	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileLGvmDu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63282/devtools/browser/49d5eff7-2055-4e1e-9f5a-86739bec6b0c
+JavaScript warning: https://www.amazon.in/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.in."
+JavaScript warning: https://www.amazon.in/s?k=cooler&ref=nb_sb_noss line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674838977127	Marionette	INFO	Stopped listening on port 63289
+Dynamically enable window occlusion 1
+1674838977920	geckodriver	INFO	Listening on 127.0.0.1:63424
+1674838980927	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "63425" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileEnQOTO"
+*** You are running in headless mode.
+1674838981292	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674838981295	Marionette	INFO	Listening on port 63432
+Read port: 63432
+WebDriver BiDi listening on ws://127.0.0.1:63425
+1674838981365	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileEnQOTO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63425/devtools/browser/9b82fa16-8e6e-4cd4-beb2-67b21afd05d1
+JavaScript warning: https://www.amazon.in/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.in."
+JavaScript warning: https://www.amazon.in/s?k=gaming+headset&ref=nb_sb_noss line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674838990298	Marionette	INFO	Stopped listening on port 63432
+Dynamically enable window occlusion 1
+1674838990977	geckodriver	INFO	Listening on 127.0.0.1:63555
+1674839006136	geckodriver	INFO	Listening on 127.0.0.1:63561
+1674839009159	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "63562" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofilejwIIQZ"
+*** You are running in headless mode.
+1674839009527	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674839009530	Marionette	INFO	Listening on port 63570
+Read port: 63570
+WebDriver BiDi listening on ws://127.0.0.1:63562
+1674839009599	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofilejwIIQZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63562/devtools/browser/f2c8d5c9-4aa8-44e4-a7d2-0997df1ff485
+JavaScript warning: https://www.amazon.in/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.in."
+JavaScript warning: https://www.amazon.in/s?k=cooler&ref=nb_sb_noss line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674839018805	Marionette	INFO	Stopped listening on port 63570
+Dynamically enable window occlusion 1
+1674839510964	geckodriver	INFO	Listening on 127.0.0.1:63817
+1674839513968	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "63818" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofilexx9QLR"
+*** You are running in headless mode.
+1674839514323	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674839514326	Marionette	INFO	Listening on port 63825
+WebDriver BiDi listening on ws://127.0.0.1:63818
+Read port: 63825
+1674839514403	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofilexx9QLR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63818/devtools/browser/a4f1cf23-e6a0-4e78-92a7-102c3f12dcf7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+1674839524652	Marionette	INFO	Stopped listening on port 63825
+Dynamically enable window occlusion 1
+1674839548206	geckodriver	INFO	Listening on 127.0.0.1:63885
+1674839551228	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "63886" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileItl33z"
+*** You are running in headless mode.
+1674839551582	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674839551585	Marionette	INFO	Listening on port 63893
+WebDriver BiDi listening on ws://127.0.0.1:63886
+Read port: 63893
+1674839551663	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileItl33z\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63886/devtools/browser/027e4369-26cc-45d0-b26e-19587aeceda6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+1674839564247	Marionette	INFO	Stopped listening on port 63893
+Dynamically enable window occlusion 1
+1674839759288	geckodriver	INFO	Listening on 127.0.0.1:63965
+1674839762292	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "63966" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileJ5u1SW"
+*** You are running in headless mode.
+1674839762647	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674839762651	Marionette	INFO	Listening on port 63973
+Read port: 63973
+WebDriver BiDi listening on ws://127.0.0.1:63966
+1674839762730	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileJ5u1SW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63966/devtools/browser/5ffc6c78-0e07-4475-86c5-8446626533e9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+1674839858289	geckodriver	INFO	Listening on 127.0.0.1:64041
+1674839861292	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "64042" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofile1pOOO8"
+*** You are running in headless mode.
+1674839861656	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674839861659	Marionette	INFO	Listening on port 64049
+Read port: 64049
+WebDriver BiDi listening on ws://127.0.0.1:64042
+1674839861728	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofile1pOOO8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64042/devtools/browser/148e50a7-fcfa-4a16-a023-4f5f60332be1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+1674839875929	Marionette	INFO	Stopped listening on port 64049
+Dynamically enable window occlusion 1
+1674839943090	geckodriver	INFO	Listening on 127.0.0.1:64114
+1674839946106	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "64115" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileLHFl1Z"
+*** You are running in headless mode.
+1674839946480	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674839946483	Marionette	INFO	Listening on port 64122
+Read port: 64122
+WebDriver BiDi listening on ws://127.0.0.1:64115
+1674839946551	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileLHFl1Z\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64115/devtools/browser/64426614-a96c-482a-b4fb-a1596d1dd607
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+1674839958619	Marionette	INFO	Stopped listening on port 64122
+Dynamically enable window occlusion 1
+1674840011897	geckodriver	INFO	Listening on 127.0.0.1:64185
+1674840014917	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "64186" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileTKaFNf"
+*** You are running in headless mode.
+1674840015283	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674840015286	Marionette	INFO	Listening on port 64193
+Read port: 64193
+WebDriver BiDi listening on ws://127.0.0.1:64186
+1674840015353	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileTKaFNf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64186/devtools/browser/432b6018-06e8-41c6-866e-3cb8ff9e4c42
+JavaScript warning: https://www.amazon.in/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.in."
+JavaScript warning: https://www.amazon.in/s?k=cooler&ref=nb_sb_noss line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674840040591	geckodriver	INFO	Listening on 127.0.0.1:64320
+1674840043595	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "64321" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileRS7Cld"
+*** You are running in headless mode.
+1674840043971	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674840043975	Marionette	INFO	Listening on port 64328
+Read port: 64328
+WebDriver BiDi listening on ws://127.0.0.1:64321
+1674840044041	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileRS7Cld\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64321/devtools/browser/8dfc4728-1875-48f8-9f74-79150e3672ec
+JavaScript warning: https://www.amazon.in/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.in."
+JavaScript warning: https://www.amazon.in/s?k=cooler&ref=nb_sb_noss line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674840101773	geckodriver	INFO	Listening on 127.0.0.1:64478
+1674840104785	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "64479" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileq45jvo"
+*** You are running in headless mode.
+1674840105209	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674840105213	Marionette	INFO	Listening on port 64489
+WebDriver BiDi listening on ws://127.0.0.1:64479
+Read port: 64489
+1674840105431	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileq45jvo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64479/devtools/browser/e08c4968-6e5b-4b12-bd68-0c6d78b3cca2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.in."
+JavaScript warning: https://www.amazon.in/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674840107864	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.amazon.in/s?k=cooler&ref=nb_sb_noss line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674840113143	Marionette	INFO	Stopped listening on port 64489
+Dynamically enable window occlusion 1
+1674840113920	geckodriver	INFO	Listening on 127.0.0.1:64611
+1674840116921	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "64612" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofilewL4nB3"
+*** You are running in headless mode.
+1674840117306	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674840117309	Marionette	INFO	Listening on port 64619
+Read port: 64619
+WebDriver BiDi listening on ws://127.0.0.1:64612
+1674840117376	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofilewL4nB3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64612/devtools/browser/6a71b05a-b8fa-4cad-8fe1-c55fb68035f6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.in."
+JavaScript warning: https://www.amazon.in/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.in/s?k=gaming+headset&ref=nb_sb_noss line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674840150075	geckodriver	INFO	Listening on 127.0.0.1:64697
+1674840153079	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "64698" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofiled1Ehvf"
+*** You are running in headless mode.
+1674840153480	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674840153484	Marionette	INFO	Listening on port 64707
+WebDriver BiDi listening on ws://127.0.0.1:64698
+Read port: 64707
+1674840153691	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofiled1Ehvf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64698/devtools/browser/8649b7cd-543e-4b13-a138-7b4fd81af66b
+JavaScript warning: https://www.amazon.in/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.in."
+JavaScript warning: https://www.amazon.in/s?k=cpu+cooler&ref=nb_sb_noss line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674840160824	Marionette	INFO	Stopped listening on port 64707
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+1674840161811	geckodriver	INFO	Listening on 127.0.0.1:64845
+1674840164813	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "64846" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileUXz4tr"
+*** You are running in headless mode.
+1674840165195	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674840165198	Marionette	INFO	Listening on port 64853
+Read port: 64853
+WebDriver BiDi listening on ws://127.0.0.1:64846
+1674840165264	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileUXz4tr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64846/devtools/browser/762c334a-6687-4df7-aee3-4d9f5a9ea8a2
+JavaScript warning: https://www.amazon.in/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.in."
+JavaScript warning: https://www.amazon.in/s?k=gaming+headset&ref=nb_sb_noss line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674840174365	Marionette	INFO	Stopped listening on port 64853
+Dynamically enable window occlusion 1
+1674840175035	geckodriver	INFO	Listening on 127.0.0.1:64980
+1674840178062	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "64981" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofile5UFN79"
+*** You are running in headless mode.
+1674840178439	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674840178442	Marionette	INFO	Listening on port 64988
+Read port: 64988
+WebDriver BiDi listening on ws://127.0.0.1:64981
+1674840178507	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofile5UFN79\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64981/devtools/browser/b0b15a6b-219f-4e7d-a386-c5056faf63c2
+JavaScript warning: https://www.amazon.in/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.in."
+JavaScript warning: https://www.amazon.in/s?k=mouse&ref=nb_sb_noss line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674840188116	Marionette	INFO	Stopped listening on port 64988
+Dynamically enable window occlusion 1
+1674840188879	geckodriver	INFO	Listening on 127.0.0.1:65121
+1674840191899	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "65122" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofilelXnct7"
+*** You are running in headless mode.
+1674840192276	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674840192279	Marionette	INFO	Listening on port 65129
+Read port: 65129
+WebDriver BiDi listening on ws://127.0.0.1:65122
+1674840192345	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofilelXnct7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65122/devtools/browser/21ad27fe-919f-423c-9c67-97bfdc030c23
+JavaScript warning: https://www.amazon.in/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.in."
+JavaScript warning: https://www.amazon.in/s?k=ram&ref=nb_sb_noss line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674840201557	Marionette	INFO	Stopped listening on port 65129
+Dynamically enable window occlusion 1
+1674840202214	geckodriver	INFO	Listening on 127.0.0.1:65230
+1674840205222	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "65231" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileehfPGW"
+*** You are running in headless mode.
+1674840205595	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674840205598	Marionette	INFO	Listening on port 65238
+Read port: 65238
+WebDriver BiDi listening on ws://127.0.0.1:65231
+1674840205663	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileehfPGW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65231/devtools/browser/e43204c2-a971-49a0-835a-d05ba5e26741
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+1674840215986	Marionette	INFO	Stopped listening on port 65238
+Dynamically enable window occlusion 1
+1674840216558	geckodriver	INFO	Listening on 127.0.0.1:65297
+1674840219587	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "65298" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofilelZCxYq"
+*** You are running in headless mode.
+1674840219957	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674840219960	Marionette	INFO	Listening on port 65305
+Read port: 65305
+WebDriver BiDi listening on ws://127.0.0.1:65298
+1674840220026	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofilelZCxYq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65298/devtools/browser/e3efab4b-dfb4-4388-9826-352062151b58
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+1674840232731	Marionette	INFO	Stopped listening on port 65305
+Dynamically enable window occlusion 1
+1674840233365	geckodriver	INFO	Listening on 127.0.0.1:65366
+1674840236372	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "65367" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofilezxw6Ih"
+*** You are running in headless mode.
+1674840236741	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674840236745	Marionette	INFO	Listening on port 65374
+Read port: 65374
+WebDriver BiDi listening on ws://127.0.0.1:65367
+1674840236811	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofilezxw6Ih\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65367/devtools/browser/80b216b6-86b7-403c-9436-cb3059b7bd13
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+1674840249275	Marionette	INFO	Stopped listening on port 65374
+Dynamically enable window occlusion 1
+1674840249844	geckodriver	INFO	Listening on 127.0.0.1:65435
+1674840252858	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "65436" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileXjzjdG"
+*** You are running in headless mode.
+1674840253225	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674840253228	Marionette	INFO	Listening on port 65443
+Read port: 65443
+WebDriver BiDi listening on ws://127.0.0.1:65436
+1674840253293	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileXjzjdG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65436/devtools/browser/b0bd8601-fdcf-4f78-b0c3-3170d25ccadb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+1674840265400	Marionette	INFO	Stopped listening on port 65443
+Dynamically enable window occlusion 1
+1674840290201	geckodriver	INFO	Listening on 127.0.0.1:65512
+1674840293220	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "65513" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileCB6bAz"
+*** You are running in headless mode.
+1674840293610	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674840293613	Marionette	INFO	Listening on port 65520
+Read port: 65520
+WebDriver BiDi listening on ws://127.0.0.1:65513
+1674840293683	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileCB6bAz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65513/devtools/browser/52ded75c-3627-427e-9ecd-c76afbb3003e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.in."
+JavaScript warning: https://www.amazon.in/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.in/s?k=cpu+cooler&ref=nb_sb_noss line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674840304013	Marionette	INFO	Stopped listening on port 65520
+Dynamically enable window occlusion 1
+1674840304754	geckodriver	INFO	Listening on 127.0.0.1:49218
+1674840307776	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "49219" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileQiFC6h"
+*** You are running in headless mode.
+1674840308152	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674840308156	Marionette	INFO	Listening on port 49226
+Read port: 49226
+WebDriver BiDi listening on ws://127.0.0.1:49219
+1674840308221	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileQiFC6h\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49219/devtools/browser/85fd54c4-6d01-4071-9511-4f95891f885c
+JavaScript warning: https://www.amazon.in/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.in."
+JavaScript warning: https://www.amazon.in/s?k=gaming+headset&ref=nb_sb_noss line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674840317198	Marionette	INFO	Stopped listening on port 49226
+Dynamically enable window occlusion 1
+1674840317876	geckodriver	INFO	Listening on 127.0.0.1:49342
+1674840320880	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "49343" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileAzXRD6"
+*** You are running in headless mode.
+1674840321253	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674840321256	Marionette	INFO	Listening on port 49350
+Read port: 49350
+WebDriver BiDi listening on ws://127.0.0.1:49343
+1674840321322	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileAzXRD6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49343/devtools/browser/0b90122c-e189-4309-824d-574f51fd965e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.in."
+JavaScript warning: https://www.amazon.in/s?k=mouse&ref=nb_sb_noss line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674840333549	Marionette	INFO	Stopped listening on port 49350
+Dynamically enable window occlusion 1
+1674840334317	geckodriver	INFO	Listening on 127.0.0.1:49477
+1674840337334	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "49478" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileg5UA8f"
+*** You are running in headless mode.
+1674840337690	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674840337693	Marionette	INFO	Listening on port 49485
+WebDriver BiDi listening on ws://127.0.0.1:49478
+Read port: 49485
+1674840337837	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileg5UA8f\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49478/devtools/browser/b6cb4a4f-3f8b-4b6c-99cb-3f7f08989671
+JavaScript warning: https://www.amazon.in/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.in."
+JavaScript warning: https://www.amazon.in/s?k=ram&ref=nb_sb_noss line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674840349932	Marionette	INFO	Stopped listening on port 49485
+Dynamically enable window occlusion 1
+1674840366912	geckodriver	INFO	Listening on 127.0.0.1:49611
+1674840369917	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "49612" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileCypVJn"
+*** You are running in headless mode.
+1674840370306	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674840370310	Marionette	INFO	Listening on port 49619
+Read port: 49619
+WebDriver BiDi listening on ws://127.0.0.1:49612
+1674840370383	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileCypVJn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49612/devtools/browser/1e9d934b-2428-47d6-a98f-893b1fcbd802
+1674840418029	geckodriver	INFO	Listening on 127.0.0.1:49684
+1674840421054	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "49685" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileRjxBUV"
+*** You are running in headless mode.
+1674840421416	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674840421419	Marionette	INFO	Listening on port 49992
+Read port: 49992
+WebDriver BiDi listening on ws://127.0.0.1:49685
+1674840421495	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileRjxBUV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49685/devtools/browser/5a80a550-566f-4dc8-bc57-54cc7cac5009
+console.warn: LoginRecipes: "Falling back to a synchronous m1674840426350	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "50184" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileNeLZFS"
+*** You are running in headless mode.
+1674840426732	Marionette	INFO	Marionette enabled
+Dynamically enable window occ1674840428850	Marionette	INFO	Stopped listening on port 49992
+Dynamically enable window occlusion 1
+ning on ws://127.0.0.1:50184
+1674840426802	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileNeLZFS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50184/devtools/browser/e6c63131-6193-4445-8206-63a80dda6ae5
+console.warn: LoginRecipes: "Falling back to a synchronous m1674840432661	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "50339" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofile4s8Fv4"
+*** You are running in headless mode.
+1674840433060	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674840433064	1674840437585	Marionette	INFO	Stopped listening on port 50244
+Dynamically enable window occlusion 1
+0339
+1674840433138	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofile4s8Fv4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50339/devtools/browser/8c498f6b-77cd-4dde-a1ab-d9470904e211
+JavaScript warning: https://www.amazon.in/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.in."
+JavaScript warning: https://www.amazon.in/s?k=gaming+headset&ref=nb_sb_noss line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674840443003	Marionette	INFO	Stopped listening on port 50367
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "50439" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofilemcfbf1"
+*** You are running in headless mode.
+1674840441655	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674840441659	Marionette	INFO	Listening on port 50508
+Read port: 50508
+WebDriver BiDi listening on ws://127.0.0.1:50439
+1674840441730	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofilemcfbf1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50439/devtools/browser/46314d43-397e-449e-a105-c799db089f1d
+console.warn: LoginRecipes: "Falling back to a synchronous m1674840446704	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "50537" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileL6poKf"
+*** You are running in headless mode.
+1674840447108	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674840447113	1674840453960	Marionette	INFO	Stopped listening on port 50508
+Dynamically enable window occlusion 1
+50582
+1674840447317	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileL6poKf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50537/devtools/browser/b2367bd2-80bb-448b-ad9c-2c29d4082495
+JavaScript warning: https://www.amazon.in/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.in."
+JavaScript warning: https://www.amazon.in/s?k=mouse&ref=nb_sb_noss line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674840456451	Marionette	INFO	Stopped listening on port 50581674840457569	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe1674840460260	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "50714" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileJ1Ndgj"
+*** You are running in headless mode.
+1674840460658	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674840460662	Marionette	INFO	Listening on port 50766
+Read port: 50766
+WebDriver BiDi listening on ws://127.0.0.1:50714
+1674840460749	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileJ1Ndgj\\search.json.mozlz4", (void 0)console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+consJavaScript warning: https://www.amazon.in/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.in."
+JavaScript warning: https://www.amazon.in/s?k=ram&ref=nb_sb_noss line 7 > injectedScript, line 1: WEBGL_debug_renderer_in1674840470315	Marionette	INFO	Stopped listening on port 50719
+Dynamically enable window occlusion 1
+topped listening on port 50766
+Dynamically enable window occlusion 1
+1674840471214	geckodriver	INFO	Listening on 127.0.0.1:50901
+1674840474221	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "50902" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofile81TySR"
+*** You are running in headless mode.
+1674840474583	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674840474586	Marionette	INFO	Listening on port 50910
+Read port: 50910
+WebDriver BiDi listening on ws://127.0.0.1:50902
+1674840474665	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofile81TySR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50902/devtools/browser/205eabc7-21a3-45f4-a5ff-fe788a8a402c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+1674840486486	Marionette	INFO	Stopped listening on port 50910
+Dynamically enable window occlusion 1
+1674840614258	geckodriver	INFO	Listening on 127.0.0.1:51015
+1674840617263	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51016" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileGTYTMe"
+*** You are running in headless mode.
+1674840617631	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674840617634	Marionette	INFO	Listening on port 51023
+Read port: 51023
+WebDriver BiDi listening on ws://127.0.0.1:51016
+1674840617705	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileGTYTMe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51016/devtools/browser/d154a5e7-cf6a-4946-b5b0-d06f2016977e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+1674840630996	Marionette	INFO	Stopped listening on port 51023
+Dynamically enable window occlusion 1
+1674840631666	geckodriver	INFO	Listening on 127.0.0.1:51083
+1674840634688	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51084" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileTaj2ol"
+*** You are running in headless mode.
+1674840635029	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674840635032	Marionette	INFO	Listening on port 51091
+WebDriver BiDi listening on ws://127.0.0.1:51084
+Read port: 51091
+1674840635199	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileTaj2ol\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51084/devtools/browser/06feae3b-95fa-444d-a310-d757a81105b4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+1674840647382	Marionette	INFO	Stopped listening on port 51091
+Dynamically enable window occlusion 1
+1674840648054	geckodriver	INFO	Listening on 127.0.0.1:51152
+1674840651071	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51153" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileHpBVUh"
+*** You are running in headless mode.
+1674840651454	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674840651457	Marionette	INFO	Listening on port 51160
+Read port: 51160
+WebDriver BiDi listening on ws://127.0.0.1:51153
+1674840651526	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileHpBVUh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51153/devtools/browser/d73c3d49-c892-47ed-a434-c3bc63c8fb1e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+1674840663931	Marionette	INFO	Stopped listening on port 51160
+Dynamically enable window occlusion 1
+1674840664601	geckodriver	INFO	Listening on 127.0.0.1:51230
+1674840667601	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51231" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileXufqtu"
+*** You are running in headless mode.
+1674840667975	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674840667978	Marionette	INFO	Listening on port 51238
+Read port: 51238
+WebDriver BiDi listening on ws://127.0.0.1:51231
+1674840668049	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileXufqtu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51231/devtools/browser/92e55b2c-1a89-4e48-8e1e-a41c03c78017
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+1674840758312	geckodriver	INFO	Listening on 127.0.0.1:51302
+1674840761335	mozrunner::runner	INFO	Running command: "C:\\P1674840764329	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51309" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileacGXoc"
+*** You are running in headless mode.
+1674840764701	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674840764704	Marionette	INFO	Listening on port 51357
+Read port: 51357
+WebDriver BiDi listening on ws://127.0.0.1:51309
+1674840764771	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileacGXoc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:5JavaScript warning: https://www.amazon.in/ line 7 > injectedconsole.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+1674840795410	geckodriver	INFO	Listening on 127.0.0.1:51506
+1674840798432	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51507" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofilery5oWV"
+*** You are running in headless mode.
+1674840798801	Marionette	INFO	Marionette enabled
+Dynamicall1674840801690	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51514" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofilefAbHYy"
+*** You are running in headless mode.
+1674840802056	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674840802059	Marionette	INFO	Listening on port 51558
+Read port: 51558
+WebDriver BiDi listening on ws://127.0.0.1:51514
+1674840802127	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofilefAbHYy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51514/devtools/browser/d900e774-a02b-4a24-bef0-6434318d4a4d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+1674840812755	Marionette	INFO	Stopped listening on port 51558
+Dynamically enable window occlusion 1
+1674840813333	geckodriver	INFO	Listening on 127.0.0.1:51618
+1674840816337	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51619" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileQwPrcB"
+*** You are running in headless mode.
+1674840816722	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674840816725	Marionette	INFO	Listening on port 51626
+Read port: 51626
+WebDriver BiDi listening on ws://127.0.0.1:51619
+1674840816790	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileQwPrcB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51619/devtools/browser/e60b8a98-4b75-41c4-b960-02d1fbd52a7d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+1674840829542	Marionette	INFO	Stopped listening on port 51626
+Dynamically enable window occlusion 1
+1674840830131	geckodriver	INFO	Listening on 127.0.0.1:51691
+1674840833133	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51692" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofilepPaOGW"
+*** You are running in headless mode.
+1674840833517	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674840833521	Marionette	INFO	Listening on port 51699
+Read port: 51699
+WebDriver BiDi listening on ws://127.0.0.1:51692
+1674840833589	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofilepPaOGW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51692/devtools/browser/c36a5925-3e86-4514-b211-727460d6488b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+1674840865098	geckodriver	INFO	Listening on 127.0.0.1:51764
+1674840868103	mozrunner::runner	INFO	Running command: "C:\\P1674840869943	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51771" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileIiGqfA"
+*** You are running in headless mode.
+1674840870331	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674840870335	Marionette	INFO	Listening on port 51808
+Read port: 51808
+WebDriver BiDi listening on ws://127.0.0.1:51771
+1674840870427	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileIiGqfA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51771/devtools/browser/62753414-17f7-41a0-8395-58c057a3da5d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling bac1674840875454	Marionette	INFO	Stopped listening on port 51778
+Dynamically enable window occlusion 1
+ a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+1674840876209	geckodriver	INFO	Listening on 127.0.0.1:51946
+1674840879215	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51947" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileel0Dgg"
+*** You are running in headless mode.
+1674840879585	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674840879588	Marionette	INFO	Listening on port 51954
+Read port: 51954
+WebDriver BiDi listening on ws://127.0.0.1:51947
+1674840879658	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileel0Dgg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51947/devtools/browser/23028b95-db10-41f2-991b-558a7ecf586c
+JavaScript warning: https://www.amazon.in/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.in."
+JavaScript warning: https://www.amazon.in/s?k=gaming+headset&ref=nb_sb_noss line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674840888789	Marionette	INFO	Stopped listening on port 51954
+Dynamically enable window occlusion 1
+1674840889568	geckodriver	INFO	Listening on 127.0.0.1:52065
+1674840892569	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52066" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofilexbbhGI"
+*** You are running in headless mode.
+1674840892944	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674840892947	Marionette	INFO	Listening on port 52074
+Read port: 52074
+WebDriver BiDi listening on ws://127.0.0.1:52066
+1674840893017	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofilexbbhGI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52066/devtools/browser/8efd6eee-9fe6-432d-be50-0696a82b4bd6
+JavaScript warning: https://www.amazon.in/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.in."
+JavaScript warning: https://www.amazon.in/s?k=mouse&ref=nb_s1674840899492	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-1674840902352	Marionette	INFO	Stopped listening on port 52074
+Dynamically enable window occlusion 1
+\Aman\\AppData\\Local\\Temp\\rust_mozprofilemzoXzJ"
+*** You are running in headless mode.
+1674840899903	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674840899907	Marionette	INFO	Listening on port 52206
+WebDriver BiDi listening on ws://127.0.0.1:52124
+Read port: 52206
+1674840900089	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofilemzoXzJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52124/devtools/browser/e218e0c6-3442-4c04-bb33-4853a22bdc6c
+console.warn: LoginRecipes: "Falling back to a synchronous m1674840906247	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52265" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileqchfpQ"
+*** You are running in headless mode.
+1674840906657	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674840906661	Marionette	INFO	Listening on port 52277
+WebDriver BiDi listening on ws://127.0.0.1:52265
+Read port: 52277
+1674840906873	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileqchfpQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52265/devtools/browser/90db1b5a-d905-4185-9dc0-155a5e89e419
+JavaScript warning: https://www.amazon.in/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.in."
+JavaScript warning: https://www.amazon.in/s?k=ram&ref=nb_sb_noss line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674840916070	Marionette	INFO	Stopped listening on port 52277
+Dynamically enable window occlusion 1
+1674840973109	geckodriver	INFO	Listening on 127.0.0.1:52402
+1674840976116	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52403" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileiea9Tj"
+*** You are running in headless mode.
+1674840976475	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674840976479	Marionette	INFO	Listening on port 52410
+Read port: 52410
+WebDriver BiDi listening on ws://127.0.0.1:52403
+1674840976555	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileiea9Tj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52403/devtools/browser/63ca5269-d194-451f-afdd-1e39ad0eb851
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+1674840987844	Marionette	INFO	Stopped listening on port 52410
+Dynamically enable window occlusion 1
+1674840988522	geckodriver	INFO	Listening on 127.0.0.1:52469
+1674840991528	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52470" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofilevxB1Yj"
+*** You are running in headless mode.
+1674840991894	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674840991898	Marionette	INFO	Listening on port 52477
+Read port: 52477
+WebDriver BiDi listening on ws://127.0.0.1:52470
+1674840991967	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofilevxB1Yj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52470/devtools/browser/a4c8029f-c8c0-4970-8d47-23b392c0bab6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+1674841004046	Marionette	INFO	Stopped listening on port 52477
+Dynamically enable window occlusion 1
+1674841004624	geckodriver	INFO	Listening on 127.0.0.1:52538
+1674841007626	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52539" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofile5ZBQZA"
+*** You are running in headless mode.
+1674841007982	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674841007985	Marionette	INFO	Listening on port 52546
+WebDriver BiDi listening on ws://127.0.0.1:52539
+Read port: 52546
+1674841008116	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofile5ZBQZA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52539/devtools/browser/258a4ff9-4521-4767-a476-689df3423f89
+console.warn: LoginRecipes: "Falling back to a synchronous m1674841012385	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52564" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileqSu8GY"
+*** You are running in headless mode.
+1674841012789	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674841012792	1674841020062	Marionette	INFO	Stopped listening on port 52546
+Dynamically enable window occlusion 1
+52613
+1674841012996	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileqSu8GY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52564/devtools/browser/cdfe948b-e2bb-45d4-b908-bc66701dc12b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.in."
+JavaScript warning: https://www.amazon.in/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.in/s?k=cpu+cooler&ref=nb_sb_noss line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674841020361	Marionette	INFO	Stopped listening on port 52613
+Dynamically enable window occlusion 1
+1674841020772	geckodriver	INFO	Listening on 127.0.0.1:52740
+1674841023780	mozrunner::runner	INFO	Running command: "C:\\P1674841024143	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52744" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\ru1674841024146	Marione*** You are running in headless mode.
+1674841024541	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674841024544	Marionette	INFO	Listening on port 52769
+Read port: 52769
+WebDriver BiDi listening on ws://127.0.0.1:52744
+1674841024620	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofile8ouppv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:5console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mdcomputers.in."
+1674841036780	Marionette	INFO	Stopped listening on port 52762
+Dynamically enable window occlusion 1
+edScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674841033743	Marionette	INFO	Stopped listening on port 52769
+Dynamically enable window occlusion 1
+1674841034525	geckodriver	INFO	Listening on 127.0.0.1:52950
+1674841037564	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52951" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofilebA4Ir0"
+*** You are running in headless mode.
+1674841037953	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674841037957	Marionette	INFO	Listening on port 52960
+Read port: 52960
+WebDriver BiDi listening on ws://127.0.0.1:52951
+1674841038026	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofilebA4Ir0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52951/devtools/browser/63ce57c6-6242-40f7-898f-041a711b8abd
+JavaScript warning: https://www.amazon.in/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.in."
+JavaScript warning: https://www.amazon.in/s?k=mouse&ref=nb_sb_noss line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674841047252	Marionette	INFO	Stopped listening on port 52960
+Dynamically enable window occlusion 1
+1674841047935	geckodriver	INFO	Listening on 127.0.0.1:53089
+1674841050951	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "53090" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileCGWOXI"
+*** You are running in headless mode.
+1674841051328	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674841051331	Marionette	INFO	Listening on port 53097
+Read port: 53097
+WebDriver BiDi listening on ws://127.0.0.1:53090
+1674841051399	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofileCGWOXI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53090/devtools/browser/e0a68481-7641-4d3d-a1c4-81d3bf29ce58
+JavaScript warning: https://www.amazon.in/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.in."
+JavaScript warning: https://www.amazon.in/s?k=ram&ref=nb_sb_noss line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674841060688	Marionette	INFO	Stopped listening on port 53097
+Dynamically enable window occlusion 1
